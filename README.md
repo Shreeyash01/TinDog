@@ -4,7 +4,7 @@ A simple static website page inspired by Tinder, designed for dog lovers. The pa
 
 ## Demo
 
-You can view the website by visiting the following link: [Dog Tinder Clone Demo](https://shreeyash01.github.io/TinDog/)
+You can view the website by visiting the following link: [TinDog](https://shreeyash01.github.io/TinDog/)
 
 ## Features
 
